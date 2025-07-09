@@ -6,7 +6,6 @@ This project calculates the **GC content** (the percentage of guanine and cytosi
 └── GC_Content_Calculator/
 ├── GCC.ipynb # Jupyter notebook for GC content calculation
 ├── data_summary.tsv # Input data file containing sequences
-├── gc_content.py # Python script to calculate GC content
 ├── gc_content_results.csv # Output file with GC content results
 └── README.md # Project documentation
 
